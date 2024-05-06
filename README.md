@@ -1,1 +1,3 @@
-# Recopilación Datos
+# RoomCraft: Your ideal room
+La idea de este proyecto es recoger los datos de la pagina web de Ikea, en secciones donde se encuentren los muebles necesarios para armar una habitación, como pueden ser:camas,escritorios,estanterías...
+
